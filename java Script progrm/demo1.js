@@ -1,8 +1,0 @@
-
-let a=5;
-if(a<10){
-
- let a=50;
-}
-console.log(a);
-
